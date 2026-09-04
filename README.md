@@ -187,65 +187,30 @@ Data-Analytics-Project/
 
 **Step 1: Clone the Repository**
 
+**Step 2: Install Python Libraries**
 
-
-### Step 2: Install Python Libraries
-
-```bash
-pip install pandas numpy matplotlib seaborn jupyter
-```
-
-### Step 3: Run the Python Analysis
+**Step 3: Run the Python Analysis**
 
 Open the Jupyter Notebook:
-
-```bash
-jupyter notebook
-```
-
-Open:
-
-```text
-python/EDA_Analysis.ipynb
-```
-
 Run the cells sequentially to perform data loading, cleaning, EDA, and visualization.
 
-### Step 4: PostgreSQL Analysis
+**Step 4: PostgreSQL Analysis**
 
 1. Install PostgreSQL.
 2. Create a database.
 3. Import the cleaned dataset.
 4. Open the SQL file:
-
-```text
-sql/analysis_queries.sql
-```
-
 5. Execute the queries in PostgreSQL/pgAdmin.
 
-### Step 5: Power BI
-
-Open:
-
-```text
-powerbi/dashboard.pbix
-```
-
+**Step 5: Power BI**
 Refresh the dataset if required and explore the interactive dashboard.
 
-### Step 6: View the Report & Presentation
+**Step 6: View the Report & Presentation**
+The final report and presentation are available in the repository.
 
-The final report and presentation are available in:
 
-```text
-report/
-presentation/
-```
 
----
-
-## Skills Demonstrated
+**Skills Demonstrated**
 
 This project demonstrates practical experience in:
 
@@ -263,9 +228,9 @@ This project demonstrates practical experience in:
 * Report Writing
 * Presentation Development
 
----
 
-## Conclusion
+
+**Conclusion**
 
 This project showcases an end-to-end approach to data analytics by combining Python, SQL, PostgreSQL, Power BI, and business reporting.
 
